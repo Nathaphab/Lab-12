@@ -17,4 +17,4 @@
 <img width="442" height="1019" alt="Image" src="https://github.com/user-attachments/assets/f2552310-b128-4a18-8006-139b5143e1ef" />
 
 ---
-**จัดทำโดย:** ณฐภพ (Nathaphab) - Lab 12
+**จัดทำโดย:** ณฐภาพ สายหล้า (Nathaphab Saila_67543210054-2) - Lab 12
