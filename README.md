@@ -10,7 +10,7 @@
 - **ฟีเจอร์:** เพิ่มรายชื่อ, ลบรายชื่อ, เก็บข้อมูลถาวรในเครื่อง
 
 ## 🖼️ ภาพประกอบแอปพลิเคชัน
-##icon app
+## icon app
 <img width="445" height="1012" alt="Image" src="https://github.com/user-attachments/assets/368c5c24-d8c8-41f0-bcbc-1060453dfb00" />
 
 <img width="443" height="1018" alt="Image" src="https://github.com/user-attachments/assets/fad1afb9-824f-430b-9db9-8fc414e925b7" />
